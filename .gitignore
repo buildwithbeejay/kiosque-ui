@@ -8,15 +8,15 @@ dist/
 *.log
 vite_out.txt
 
-# environment variables
+# env
 .env
 .env.local
 .env.*.local
 
-# OS / editor
+# OS / IDE
 .DS_Store
 .vscode/
 .idea/
 
-# package manager conflicts (assuming yarn)
+# lock conflict (if using yarn)
 package-lock.json
